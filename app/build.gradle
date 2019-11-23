@@ -26,4 +26,5 @@ dependencies {
     implementation project(':views')
     implementation "androidx.cardview:cardview:$rootProject.cardviewVersion"
     implementation "com.google.android.material:material:$rootProject.materialVersion"
+
 }
